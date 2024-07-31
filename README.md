@@ -11,6 +11,7 @@ The Appointment App is a basic Angular application designed to demonstrate the c
 - **Delete Appointments:** Users can delete appointments from the list.
 - **Data Persistence:** The application uses local storage to save and retrieve appointment data, ensuring data persists across browser sessions.
 
+![Appointment App Screenshot](https://github.com/jithendrapulusu28/Basic_angular_apps/blob/master/Screenshot%202024-08-01%20041156.png?raw=true)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
