@@ -1,5 +1,15 @@
 # AppointmentApp
 
+Overview
+The Appointment App is a basic Angular application designed to demonstrate the core functionality of data binding in Angular. The app allows users to manage appointments with simple CRUD operations. It uses local storage to persist data across sessions.
+
+Features
+Add Appointments: Users can add new appointments by entering a description and date.
+View Appointments: Users can view a list of all scheduled appointments.
+Delete Appointments: Users can delete appointments from the list.
+Data Persistence: The application uses local storage to save and retrieve appointment data, ensuring data persists across browser sessions.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
 
 ## Development server
